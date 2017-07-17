@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4BC61BA9DC1E308485084F12BF29693D2DB87B7D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4BC61BA9DC1E308485084F12BF29693D2DB87B7D" : 9223372036854775807,
+    "ED87DBB9165D0DC823CD9D1E6852DC2FAF6ACB8B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E10EFBBF-EFD5-4884-8D7E-E499908116F7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4BC61BA9DC1E308485084F12BF29693D2DB87B7D" : "Emoji%20Dictionary\/",
+    "ED87DBB9165D0DC823CD9D1E6852DC2FAF6ACB8B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Emoji Dictionary",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Emoji Dictionary.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/toshi377\/emojidictionary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4BC61BA9DC1E308485084F12BF29693D2DB87B7D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/toshi377\/swiftapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ED87DBB9165D0DC823CD9D1E6852DC2FAF6ACB8B"
+    }
+  ]
+}
